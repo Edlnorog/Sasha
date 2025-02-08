@@ -9,5 +9,30 @@
 .Sasha{
     text-align: center;
     font-size: 60px;
-    
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin: 1 auto;
+    list-style-type: none;
+    font-size: 50px;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+li{
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: lightblue;
+width: 600px;
+    min-width: 600px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+li:first-child{
+    background-color: greenyellow;
 }
