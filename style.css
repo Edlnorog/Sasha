@@ -1,0 +1,13 @@
+.wrapper{
+    max-width: 600px;
+    background-color: lightblue;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.Sasha{
+    text-align: center;
+    font-size: 60px;
+    
+}
